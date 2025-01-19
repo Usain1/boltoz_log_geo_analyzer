@@ -1,0 +1,15 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .env and ini files (common for environment variables)
+*.env
+*.ini
+
+# Ignore compiled files of my python script
+__pycache__/
+*.pyc
+
+# Ignore all files in the backup directory
+
+# Ignore the node_modules directory
+
