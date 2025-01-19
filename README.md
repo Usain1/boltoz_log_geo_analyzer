@@ -19,7 +19,7 @@ This Python script processes an HTTP access log file to identify unique client I
 Run the script: `python3 index.py`
 
 ## Output
-The script will output the number of distinct IPs and write the JSON summary to result.json:
+The script will output the number of distinct IPs and write the JSON summary to geoip.json:
 ```json
 {
    "Europe": {
